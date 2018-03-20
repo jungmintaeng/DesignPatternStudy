@@ -1,4 +1,4 @@
-package strategy_pattern_after;
+package pattern.strategy.after;
 
 public interface MovingStrategy {
 	public void move();

@@ -1,6 +1,5 @@
-package strategy_pattern_after;
+package pattern.strategy.after;
 
-@SuppressWarnings("unused")
 public class Robot {
 	private String name;
 	private MovingStrategy movingStrategy;

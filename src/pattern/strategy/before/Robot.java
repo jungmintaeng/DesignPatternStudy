@@ -1,4 +1,4 @@
-package strategy_pattern_before;
+package pattern.strategy.before;
 
 public abstract class Robot {
 	private String name;
